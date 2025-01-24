@@ -32,3 +32,19 @@ To run the Jupyter Notebook, ensure you have the following installed:
 Install the required libraries using the following command:
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
+---
+
+## Usage
+1. Clone the repository to your local machine.
+2. Open the Jupyter Notebook:
+```bash
+jupyter notebook 18222128_Anindita_Widya_Santoso_TugasBesarProbStat.ipynb
+```
+3. Run each code cell sequentially to replicate the analysis and view the outputs.
+4. For a quick review, open the HTML file in any web browser.
+
+---
+
+## Author
+Anindita Widya Santoso (18222128)
